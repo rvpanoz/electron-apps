@@ -1,0 +1,12 @@
+name: luna
+description: 'NPM Management Tool. Manage npm packages.'
+website: 'https://github.com/rvpanoz/luna'
+repository: 'https://github.com/rvpanoz/luna'
+category: 'Developer Tools'
+keywords:
+    - npm
+    - management
+    - react
+    - redux
+    - electron
+license: Apache-2.0
